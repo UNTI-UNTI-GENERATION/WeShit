@@ -1,12 +1,13 @@
 <!DOCTYPE html>
-<html>
+<html lang="ja">
 <head>
+	<meta charset="utf-8">
         <title>WeShit</title>
         <link rel="stylesheet" href="css/index.css">
 	<script src="heeps://get.mavo.io/mavo.min.js"></script>	
         <link rel="stylesheet" href="https://get.mavo.io/mavo.css">
 </head>
-	<div mv-app="WeShit" mv-storage="https://github.com/UNTI-UNTI-GENERATION/WeShit">
+	<div mv-app="WeShit" mv-storage="https://github.com/UNTI-UNTI-GENERATION/WeShit/talks">
 		<p>‚Ó‚´‚¯‚½ƒ^ƒCƒgƒ‹‚â</p>
 		<p property="text" mv-multiple ></p>
 	</div>
